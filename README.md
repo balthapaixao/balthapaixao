@@ -2,6 +2,7 @@
 
 <div align="center"> 
   <img src="imgs/programming.gif" />
+</div>
 <br>
 <br>
 
