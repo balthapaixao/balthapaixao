@@ -8,6 +8,10 @@
 
 ## About Me
 
+I am Balthazar Paixao, commonly known by the nickname of balthapaixao. I am a Data Engineer with a background in Computer Science and a passion for data-driven solutions. I have a Bachelor's of Science degree in Computer Science from the Federal Center for Technological Education of Rio de Janeiro ([CEFET/RJ](http://www.cefet-rj.br/index.php/english-version)). I am currently pursuing a Master's degree in Computer Science with focus on the Analysis of Complex Networks metrics in Football/Soccer also from CEFET/RJ. I am also a Data Engineer [PCDaS-Fiocruz](https://pcdas.icict.fiocruz.br/), where I work with data pipelines, data engineering, big-data architectures, geo-spatial data, and cloud computing.
+
+- 🎓 Bachelor's of Science in Computer Science from [CEFET/RJ](http://www.cefet-rj.br/index.php/english-version).
+- 📚 I'm currently pursuing a Master's degree in Computer Science from [CEFET/RJ](http://www.cefet-rj.br/index.php/english-version).
 - 🔭 I’m currently working on: Data engineering projects, building data pipelines, and implementing data solutions for various domains.
 - 🌱 I’m currently learning: New Data Tools, data visualization libraries, and cloud-native data architectures.
 - 👯 I’m looking to collaborate on: Open-source data projects, data engineering challenges, and innovative data-driven initiatives.
