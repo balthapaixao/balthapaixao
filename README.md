@@ -41,5 +41,6 @@ Check out my repositories on my [Github](https://github.com/balthapaixao/), and 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=balthapaixao&show_icons=true&theme=material-palenight" />
 <br>
+<br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=balthapaixao&theme=material-palenight" />
 </div>
