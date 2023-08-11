@@ -35,6 +35,8 @@ I am Balthazar Paixao, commonly known by the nickname of balthapaixao. I am a Da
 
 ### Check out the repositories that I am working on in my [portfolio](https://balthapaixao.notion.site/Balthazar-Paixao-s-Portfolio-e7627efc0c364031b3a99bf5833e48bd?pvs=4) at Notion below and feel free to contribute to any of them!
 
+And please, make sure to ⭐ the repositories that you liked the most!
+
 ## GitHub Stats
 
 <br>
