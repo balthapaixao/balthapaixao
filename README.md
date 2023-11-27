@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey everyone 👋
 
 <div align="center"> 
   <img src="imgs/programming.gif" />
