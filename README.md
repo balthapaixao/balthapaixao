@@ -13,7 +13,7 @@ I am Balthazar Paixao, commonly known by the nickname of balthapaixao. I am a Da
 - 🎓 Bachelor's of Science in Computer Science from [CEFET/RJ](http://www.cefet-rj.br/index.php/english-version);
 - 📚 I'm currently pursuing a [Master's degree](https://github.com/balthapaixao/football-networks/) in Computer Science from [PPCIC-CEFET/RJ](https://eic.cefet-rj.br/portal/);
 - 🔭 I’m currently working on: Data engineering projects, building data pipelines, and implementing data solutions for various domains;
-- 🌱 I’m currently learning: New Data Tools, data visualization libraries, and cloud-native data architectures;
+- 🌱 I’m currently learning: New Data Tools, data visualization libraries, Big Data modeling techniques,and cloud-native data architectures;
 - 👯 I’m looking to collaborate on: Open-source data projects, data engineering challenges, and innovative data-driven initiatives;
 - 🤔 I’m looking for help with: Optimizing data processing pipelines and exploring cutting-edge data technologies;
 - 💬 Ask me about: Data engineering, Python, SQL, Airflow, Cloud computing, Docker, or anything related to data and technology!;
