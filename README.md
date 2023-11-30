@@ -18,7 +18,7 @@ I am Balthazar Paixao, commonly known by the nickname of balthapaixao. I am a Da
 - 🤔 I’m looking for help with: Optimizing data processing pipelines and exploring cutting-edge data technologies;
 - 💬 Ask me about: Data engineering, Python, SQL, Airflow, Cloud computing, Docker, or anything related to data and technology!;
 - 📫 How to reach me: You can reach me via email at balthazarpaixao@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/balthapaixao/);
-- ⚡ Fun fact: I'm a soccer/football enthusiast, and I enjoy hiking and discovering new places in my free time!
+- ⚡ Fun fact: I'm a soccer/football ⚽️ enthusiast, and I enjoy hiking and discovering new places in my free time!
 
 <br>
 
